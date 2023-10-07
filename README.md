@@ -22,10 +22,11 @@ cp .env.example .env
 php artisan key:generate
 ```
 Then, run the database migrations:
-``bash
+```bash
 php artisan migrate
 ```
 You can then start the development server:
+
 ```bash
 php artisan serve
 ```
