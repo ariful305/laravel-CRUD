@@ -1,5 +1,5 @@
 ## Laravel CRUD
-![App Screenshot](public\images\dashboard.png)
+![App Screenshot](public/images/dashboard.png)
 
 ## Getting Started
 To get started with this project, you will need to have the following software installed:
